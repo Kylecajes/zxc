@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+.about-section {
+padding: 50px;
+background-color: skyblue;
+text-align: center;
+color: black;
+}
+
+.column {
+float: left;
+width: 25%
+margin-bottom: 15px;
+padding: 15 50px;
+}
+
+.card {
+box-shadow: 0 10px 18px rgba(0, 0, 0, 0.2);
+margin: 10px;
+}
+
+.container {
+padding: 0 16px;
+clear: both;
+display: table;
+}
+</style>
+</head>
+
+<body> 
+<div class = "about-section">
+<h1 style = "text-align: center"> About me </h1>
+<p> <b> this is my first time </p>
+</div>
+
+<h1 style = "text-align: center"> My Girlfriend </h1>
+<div class = "row">
+<div class = "column">
+<div class = "card">
+<img src = "bg1.jpg" alt = "try lang" style = "width: 100%">
+<div class = "container">
+
+<h1> Richelle Jeanne Aguda </h1>
+<p> I love you Mymy!! </p>
+<p> Daddy is super proud sayo!! </p>
+
+</div>
+</div>
+</div>
+</div>
+<div class = "row">
+<div class = "column">
+<div class = "card">
+<img src = "bg1.jpg" alt = "try lang" style = "width: 100%">
+<div class = "container">
+
+<h1> Richelle Jeanne Aguda </h1>
+<p> I love you Mymy!! </p>
+<p> Daddy is super proud sayo!! </p>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class = "row">
+<div class = "column">
+<div class = "card">
+<img src = "bg1.jpg" alt = "try lang" style = "width: 100%">
+<div class = "container">
+
+<h1> Richelle Jeanne Aguda </h1>
+<p> I love you Mymy!! </p>
+<p> Daddy is super proud sayo!! </p>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class = "row">
+<div class = "column">
+<div class = "card">
+<img src = "bg1.jpg" alt = "try lang" style = "width: 100%">
+<div class = "container">
+
+<h1> Richelle Jeanne Aguda </h1>
+<p> I love you Mymy!! </p>
+<p> Daddy is super proud sayo!! </p>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class = "row">
+<div class = "column">
+<div class = "card">
+<img src = "bg1.jpg" alt = "try lang" style = "width: 100%">
+<div class = "container">
+
+<h1> Richelle Jeanne Aguda </h1>
+<p> I love you Mymy!! </p>
+<p> Daddy is super proud sayo!! </p>
+
+</div>
+</div>
+</div>
+</div>
+
+
+</body>
+</html>
